@@ -1,5 +1,6 @@
-title: My GitHub Blog
-description: My personal site powered by  GitHub Pages.
+title: JavaScript Notes
+description: A blog with Markdown + Custom CSS
+baseurl: "/javascript"
+url: "https://abhishek29104.github.io/JavaScript/"
 theme: null
-markdown: mdFile
-baseurl: "/JavaScript"
+markdown: kramdown
