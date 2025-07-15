@@ -2,3 +2,4 @@ title: My GitHub Blog
 description: My personal site powered by  GitHub Pages.
 theme: null
 markdown: mdFile
+baseurl: "/JavaScript"
